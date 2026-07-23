@@ -1,13 +1,7 @@
-<h1 align="center">Hi there, I'm Yafet Mulaw 👋</h1>
+<h1 align="center">Hi there, I'm Yafet Mulaw 👋</h1> <p align="center">Data Analyst & Aspiring Data Scientist</p> <p align="center">Machine Learning · Business Analysis · Financial Analysis</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="center">Turning raw data into decisions</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-- 📊 I'm currently building [Retail Sales Analysis](#)
-- 🗂️ All of my projects are available at (Data Analysis Portolio)[https://github.com/](https://github.com/yafetmulaw/Data-Analysis-Portfolio.git)
+- 📊 I'm currently building [Retail Sales Analysis](https://github.com/yafetmulaw/Data-Analysis-Portfolio/tree/19fcaaad3e9892f465664d557c5cad40db3c8730/online-retail)
+- 🗂️ All of my projects are available at [https://github.com/yafetmulaw](https://github.com/yafetmulaw/Data-Analysis-Portfolio.git)
 - 💬 Ask me about **Data Analysis** or **Python**
 - 📫 How to reach me **yafetmulaw@gmail.com**
 
