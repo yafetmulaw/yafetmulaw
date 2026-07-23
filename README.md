@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yafet Mulaw 👋</h1> <p align="center">Data Analyst & Aspiring Data Scientist</p> <p align="center">Machine Learning · Business Analysis · Financial Analysis</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<h1 align="center">Heyy there, I'm Yafet Mulaw 👋</h1> <p align="center">Data Analyst & Aspiring Data Scientist</p> <p align="center">Machine Learning · Business Analysis · Financial Analysis</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 - 📊 I'm currently building [Retail Sales Analysis](https://github.com/yafetmulaw/Data-Analysis-Portfolio/tree/19fcaaad3e9892f465664d557c5cad40db3c8730/online-retail)
 - 🗂️ All of my projects are available at [https://github.com/yafetmulaw](https://github.com/yafetmulaw/Data-Analysis-Portfolio.git)
@@ -7,15 +7,15 @@
 
 ### Languages and Tools:
 
-<p>
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<p> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> 
 </p>
 
 ---
