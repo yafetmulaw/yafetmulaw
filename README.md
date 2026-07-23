@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yafet Mulaw 👋</h1>
 
-<!--
-**yafetmulaw/yafetmulaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Turning raw data into decisions</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 I'm currently building [Retail Sales Analysis](#)
+- 🗂️ All of my projects are available at (Data Analysis Portolio)[https://github.com/](https://github.com/yafetmulaw/Data-Analysis-Portfolio.git)
+- 💬 Ask me about **Data Analysis** or **Python**
+- 📫 How to reach me **yafetmulaw@gmail.com**
+
+### Languages and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yafetmulaw&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yafetmulaw&hide_border=true" />
+</p>
+
+### Connect with me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/yafetmulaw"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yafetmulaw@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/yafet.mulaw/vizzes"><img src="https://img.shields.io/badge/-Tableau%20Public-E97627?style=flat-square&logo=tableau&logoColor=white"/></a>
+  
