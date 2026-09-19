@@ -21,10 +21,6 @@
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yafetmulaw&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=yafetmulaw&hide_border=true&theme=tokyonight" />
 </p>
 
