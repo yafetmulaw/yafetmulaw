@@ -9,7 +9,7 @@
 
 ### </> ***Languages and Tools:***
 
-- Programming Languages
+- *Programming Languages*
 
 <p>   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> </p>
 
@@ -62,6 +62,7 @@
 ### Connect with me:
 
 <p align="center">
+  <a href="https://www.upwork.com/freelancers/~01be1a8711018d28d1"><img src="https://img.shields.io/badge/-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yafetmulaw"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yafetmulaw@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://public.tableau.com/app/profile/yafet.mulaw/vizzes"><img src="https://img.shields.io/badge/-Tableau%20Public-E97627?style=flat-square&logo=tableau&logoColor=white"/></a>
