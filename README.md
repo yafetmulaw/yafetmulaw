@@ -1,5 +1,9 @@
 <h1 align="center">Hey there, I'm Yafet Mulaw 👋</h1> <p align="center">Statistician | Machine Learning Engineer | M&E Data Analyst</p> <p align="center">Machine Learning · Monitoring & Evaluation (M&E) · Business Analysis · Financial Analysis · Survey Data Analysis</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
+I'm a Statistician and Machine Learning Engineer passionate about building data-driven solutions, intelligent systems, and practical AI applications to solve real-world problems.
+
+---
+
 ### 📊 ***Featured Projects:***
 - [DHS Child Vaccination Analysis](https://github.com/yafetmulaw/dhs-child-vaccination-ethiopia.git) – Ethiopia — Child vaccination coverage, regional disparities, and associated factors using DHS survey data.
 - [Heart Disease Risk Estimator](https://github.com/yafetmulaw/heart-disease-risk-estimator.git) — A machine learning web application built with Python, Scikit-learn, and Streamlit that estimates heart disease risk probabilities using 13 clinical and demographic indicators from the UCI Cleveland Heart Disease dataset.
