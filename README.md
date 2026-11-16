@@ -1,19 +1,19 @@
 <h1 align="center">Hey there, I'm Yafet Mulaw 👋</h1> <p align="center">Statistician | Machine Learning Engineer | M&E Data Analyst</p> <p align="center">Machine Learning · Monitoring & Evaluation (M&E) · Business Analysis · Financial Analysis · Survey Data Analysis</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=yafetmulaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-📊 ***Featured Projects***
+### 📊 ***Featured Projects:***
 - [DHS Child Vaccination Analysis](https://github.com/yafetmulaw/dhs-child-vaccination-ethiopia.git) – Ethiopia — Child vaccination coverage, regional disparities, and associated factors using DHS survey data.
 - [Heart Disease Risk Estimator](https://github.com/yafetmulaw/heart-disease-risk-estimator.git) — A machine learning web application built with Python, Scikit-learn, and Streamlit that estimates heart disease risk probabilities using 13 clinical and demographic indicators from the UCI Cleveland Heart Disease dataset.
 - 🗂️ All of my projects are available at [https://github.com/yafetmulaw](https://github.com/yafetmulaw/Data-Analysis-Portfolio.git)
 - 💬 Ask me about **Python**, **SQL**, **Machine Learning**, **Data Analysis**,  and **Statistics**
 - 📫 How to reach me **yafetmulaw@gmail.com**
 
-### Languages and Tools:
+### </> ***Languages and Tools:***
 
 - Programming Languages
 
 <p>   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> </p>
 
-- Statistical Analysis & Data Collection
+- *Statistical Analysis & Data Collection*
 
 <p>
   <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-- Data Science & Machine Learning
+- *Data Science & Machine Learning*
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-- Data Visualization & Business Intelligence
+- *Data Visualization & Business Intelligence*
 
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-- Development & Environment
+- *Development & Environment*
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -58,10 +58,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yafetmulaw&hide_border=true&theme=tokyonight" />
-</p>
 
 ### Connect with me:
 
